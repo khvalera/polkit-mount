@@ -1,0 +1,1 @@
+Rule for mounting without requiring a password root
